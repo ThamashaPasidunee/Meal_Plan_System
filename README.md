@@ -19,9 +19,9 @@ Users can create meal plans by providing the following details:
 
 Users can manage their meal plans with the following functionalities:
 
--**Edit**: Modify the details of an existing meal plan.<br>
--**Delete**: Remove a meal plan from the list.<br>
--**Share**: Share the meal plan with other users on the platform.
+- **Edit**: Modify the details of an existing meal plan.<br>
+- **Delete**: Remove a meal plan from the list.<br>
+- **Share**: Share the meal plan with other users on the platform.
 
 ## Technology Stack
 
