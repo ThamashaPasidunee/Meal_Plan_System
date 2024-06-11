@@ -26,6 +26,7 @@ Users can manage their meal plans with the following functionalities:
 ## Technology Stack
 
 **Spring Boot**: Used for implementing the REST API, ensuring a robust and scalable backend service.<br>
+
 **React**: Utilized for developing the client application, providing a dynamic and responsive user interface.
 
 Gym Net's Meal Plan Sharing system fosters a community where users can exchange healthy meal ideas and support each other's fitness journeys.
